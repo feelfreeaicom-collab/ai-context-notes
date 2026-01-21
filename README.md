@@ -1,4 +1,6 @@
-# ai-context-notesimport React, { useState, useEffect, useMemo, useRef } from 'react';
+# 환각 토큰 · 확률 분포 · 제약 설계 노트  
+원문 생성: https://gemini.google.com/share/9734e7ee2247
+import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { 
   Zap, 
   Target, 
